@@ -1,1 +1,2 @@
 # Data-Visualization-of-US-Police-shootings
+This project aims to visualize a data set containing records of 4,895 people shot by the police in the US between 02/01/2015 and 15/06/2020. The dataset used in this project was downloaded from Kaggle. Four races were identified in the data set (Hispanics, Natives, Whites, Blacks, and Asians). Other classifications including the location of the shooting, mental health of the victims, age of the victims, threat level, and weapons in possession of the victims at the time they were shot were also considered.
